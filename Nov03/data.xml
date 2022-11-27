@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<employeeInfo>
+	<Employee>
+		<Emp_no>101</Emp_no>
+		<Emp_name>Bolt</Emp_name>
+		<Age>19</Age>
+		<Place>Chennai</Place>
+		<Religion>Hindu</Religion>
+		<Department>Engineering</Department>
+	</Employee>
+	<Employee>
+		<Emp_no>102</Emp_no>
+		<Emp_name>Olando</Emp_name>
+		<Age>21</Age>
+		<Place>Kingston</Place>
+		<Religion>Christian</Religion>
+		<Department>Production</Department>
+	</Employee>
+	<Employee>
+		<Emp_no>103</Emp_no>
+		<Emp_name>Harini</Emp_name>
+		<Age>25</Age>
+		<Place>Chennai</Place>
+		<Religion>Hindu</Religion>
+		<Department>HR</Department>
+	</Employee>
+</employeeInfo>

@@ -1,0 +1,35 @@
+{
+    "person": [
+        {
+            "firstName": "John",
+            "lastName": "Constantine",
+            "hobbies": [
+                "magic",
+                "dark arts",
+                "con-artist"
+            ],
+            "age": 35,
+            "children": [
+                {
+                    "firstName": "Alice",
+                    "age": 6
+                },
+                {
+                    "firstName": "Bob",
+                    "age": 8
+                }
+            ]
+        },
+        {
+            "firstName": "Ezra",
+            "lastName": "Muir",
+            "hobbies": [
+                "reading",
+                "introspecting",
+                "music"
+            ],
+            "age": 25,
+            "children": null
+        }
+    ]
+}

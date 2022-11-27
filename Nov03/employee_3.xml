@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employeeData>
+    <employee>
+        <Emp_no>110</Emp_no>
+        <Emp_name>Roger Brown</Emp_name>
+        <Age>46</Age>
+        <Place>Kingston</Place>
+        <Religion>Jews</Religion>
+        <Department>Accounts</Department>
+    </employee>
+    <employee>
+        <Emp_no>111</Emp_no>
+        <Emp_name>Johan Wick</Emp_name>
+        <Age>28</Age>
+        <Place>Maryland</Place>
+        <Religion>Christian</Religion>
+        <Department>Modelling</Department>
+    </employee>
+    <employee>
+        <Emp_no>112</Emp_no>
+        <Emp_name>Jenna Harmstrong</Emp_name>
+        <Age>35</Age>
+        <Place>Chicago</Place>
+        <Religion>hindu</Religion>
+        <Department>Engineering</Department>
+    </employee>
+</employeeData>
